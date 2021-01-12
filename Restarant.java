@@ -1,8 +1,10 @@
-import java.util.*;
-public class Restaurant {     // Resturent_Management_System_Java_Code
-     public static void main(String[] args){
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Scanner;
 
-        // ArrayList<String> hList = new ArrayList<String>();
+public class Restaurant {     // Resturent_Management_System_Java_Code
+     
+	public static void main(String[] args){
         full();
      }
      public static void full(){
